@@ -1,4 +1,9 @@
-<h1 align="center">✌🏻 Hey! I'm Mariano Ibarra</h1>
+<h1 align="center">✌🏻 Hey! I'm Quintanilla Emanuel</h1>
+
+
+<p align='justify'>
+I'm a software developer from 📍 Rosario, Argentina, whose passions are both coding and learning whatever I can 🤓. I have a Full Stack web development background, though I find myself leaning in favour of the 🎨 front-end side of things. I want to keep growing more and more in the tech world, developing solutions for all types of problems people in the planet may have, meeting spectacular people to make teams with and learn from, while also growing both as a professional and as a person.
+</p>
 
 
 <table align="center">

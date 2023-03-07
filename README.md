@@ -2,7 +2,7 @@
 
 
 <p align='justify'>
-I'm a software developer from 📍 Rosario, Argentina, whose passions are both coding and learning whatever I can 🤓. I have a Full Stack web development background, though I find myself leaning in favour of the 🎨 front-end side of things. I want to keep growing more and more in the tech world, developing solutions for all types of problems people in the planet may have, meeting spectacular people to make teams with and learn from, while also growing both as a professional and as a person.
+As a frontend developer, I have a strong interest and passion for creating attractive and functional user interfaces. I am seeking an opportunity to apply and expand my skills in web development. I am willing to work hard to acquire new skills and knowledge. I have a solid background in technology and I am familiar with the latest trends and tools in frontend development. I am excited about the opportunity to work in a dynamic and challenging environment, where I can apply and expand my frontend development skills and knowledge.
 </p>
 
 

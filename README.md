@@ -2,7 +2,7 @@
 
 
 <p align='justify'>
-As a frontend developer, I have a strong interest and passion for creating attractive and functional user interfaces. I am seeking an opportunity to apply and expand my skills in web development. I am willing to work hard to acquire new skills and knowledge. I have a solid background in technology and I am familiar with the latest trends and tools in frontend development. I am excited about the opportunity to work in a dynamic and challenging environment, where I can apply and expand my frontend development skills and knowledge.
+As a frontend developer, I am interested in finding an environment where I can apply and expand my skills in web development. I am passionate about creating attractive and functional user interfaces, and I am willing to work hard to acquire new skills and knowledge. With a solid background in technology and familiarity with the latest trends and tools in frontend development, I am excited for the opportunity to work in a dynamic and challenging environment where I can contribute my experience and continue to learn.
 </p>
 
 

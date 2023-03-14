@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fede.cid.96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-cid-519421188/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fede-cid)
-
+[![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fede-cid)
 
 <p align='justify'>
 As a frontend developer, I am interested in finding an environment where I can apply and expand my skills in web development. I am passionate about creating attractive and functional user interfaces, and I am willing to work hard to acquire new skills and knowledge. With a solid background in technology and familiarity with the latest trends and tools in frontend development, I am excited for the opportunity to work in a dynamic and challenging environment where I can contribute my experience and continue to learn.

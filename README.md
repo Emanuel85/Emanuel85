@@ -3,7 +3,25 @@
 
 ## About me
 <p align='justify'>
-As a frontend developer, I am interested in finding an environment where I can apply and expand my skills in web development. I am passionate about creating attractive and functional user interfaces, and I am willing to work hard to acquire new skills and knowledge. With a solid background in technology and familiarity with the latest trends and tools in frontend development, I am excited for the opportunity to work in a dynamic and challenging environment where I can contribute my experience and continue to learn.
+I am a young and talented Full Stack Developer with experience in HTML, JavaScript, CSS, React, Node.js, among other technologies. With a proactive approach and passion for web development, I am seeking a position where I can apply my skills and continue to grow professionally.
+
+I love developing on the front-end because it allows me to express my imagination and creativity in the visual interface of a web page, which gives me great personal satisfaction. Additionally, I greatly enjoy creating sites with attractive design and robust functionality. I possess skills in collaborative work and have participated in projects using version control tools like Git. My committed attitude and ability to organize are values that I bring to any team, always willing to expand my knowledge in new technologies and skills to continue improving in my profession.
+
+🖥️ What technologies do I handle?
+✅ 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 → JavaScript, HTML5, CSS3, SQL.
+✅ 𝘍𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 → React, Redux, Bootstrap, Material UI.
+✅ 𝘉𝘢𝘤𝘬𝘦𝘯𝘥 & 𝘖𝘙𝘔 → Node.js, Express.js, Postman, Sequelize.
+✅ 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦𝘴 → PostgreSQL, SQLite.
+✅ 𝘝𝘦𝘳𝘴𝘪𝘰𝘯 𝘊𝘰𝘯𝘵𝘳𝘰𝘭𝘴 → Git, GitHub.
+✅ 𝘋𝘦𝘴𝘪𝘨𝘯 𝘛𝘰𝘰𝘭𝘴 → Canva, Figma, Photoshop.
+
+📌 What am I learning now? What's next?
+✅ MongoDB (noSQL)
+✅ React Native
+
+👤 If you're interested in talking about my experience and skills, don't hesitate to contact me!
+📧 emanuelquintanilla85@gmail.com
+💟 https://github.com/Emanuel85
 </p>
 
 

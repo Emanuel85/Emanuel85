@@ -150,7 +150,8 @@ A website that enables event management, ticket sales, sales tracking, and promo
 
 
 
-* Individual project Travel Soul  [![Website](https://img.shields.io/badge/Website-1abc9c?style=for-the-badge&logo=globe&logoColor=white)](https://pi-countries-awo49i1av-emanuel85.vercel.app/) <br>
+* Individual project Travel Soul <br>
+  [![Website](https://img.shields.io/badge/Website-1abc9c?style=for-the-badge&logo=globe&logoColor=white)](https://pi-countries-awo49i1av-emanuel85.vercel.app/) <br>
 This project is a web application that displays information about countries around the world and allows users to create tourist activities associated with them. To gather most of the relevant information about the countries, the Rest API https://restcountries.com/ was used.
 
 The creation of the website was the final project of the Full Stack Development Bootcamp at SoyHenry, where the following technical guidelines had to be followed:

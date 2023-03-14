@@ -149,7 +149,8 @@ As a frontend developer, I am interested in finding an environment where I can a
 [![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=pink)](https://instagram.com/quinta.ema?igshid=ZDdkNTZiNTM=)
 
 
-##Notable Project
-Eventoo  https://www.eventoo.com.ar/
+## Notable Project
+
+* Eventoo  https://www.eventoo.com.ar/
 A website that enables event management, ticket sales, sales tracking, and promotion creation. The technologies used include React, Redux Toolkit, AWS, PostgreSQL, Node.js, Express, and MUI. If you have any questions or are interested in working with me on a project, feel free to contact me. I'm always eager to talk about technology and collaborate on interesting projects. Thank you for reading my README!
 

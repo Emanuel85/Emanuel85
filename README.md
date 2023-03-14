@@ -144,14 +144,15 @@ As a frontend developer, I am interested in finding an environment where I can a
 
 
 ## Notable Project
-* Group project Eventoo  https://www.eventoo.com.ar/
+* Group project Eventoo  https://www.eventoo.com.ar/ <br>
+ [![Website](https://img.shields.io/badge/Website-1abc9c?style=for-the-badge&logo=globe&logoColor=white)] (https://www.eventoo.com.ar/)<br>
 A website that enables event management, ticket sales, sales tracking, and promotion creation. The technologies used include React, Redux Toolkit, AWS, PostgreSQL, Node.js, Express, and MUI. If you have any questions or are interested in working with me on a project, feel free to contact me. I'm always eager to talk about technology and collaborate on interesting projects. Thank you for reading my README!
 
 
 
 
 * Individual project Travel Soul <br>
-  [![Website](https://img.shields.io/badge/Website-1abc9c?style=for-the-badge&logo=fas fa-globe&logoColor=white)](https://pi-countries-awo49i1av-emanuel85.vercel.app/) <br>
+  [![Website](https://img.shields.io/badge/Website-1abc9c?style=for-the-badge&logo=globe&logoColor=white)](https://pi-countries-awo49i1av-emanuel85.vercel.app/) <br>
 This project is a web application that displays information about countries around the world and allows users to create tourist activities associated with them. To gather most of the relevant information about the countries, the Rest API https://restcountries.com/ was used.
 
 The creation of the website was the final project of the Full Stack Development Bootcamp at SoyHenry, where the following technical guidelines had to be followed:

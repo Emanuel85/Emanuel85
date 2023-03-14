@@ -143,14 +143,13 @@ As a frontend developer, I am interested in finding an environment where I can a
 - Patience 🙏
 
 
+## Notable Project
+* Eventoo  https://www.eventoo.com.ar/
+A website that enables event management, ticket sales, sales tracking, and promotion creation. The technologies used include React, Redux Toolkit, AWS, PostgreSQL, Node.js, Express, and MUI. If you have any questions or are interested in working with me on a project, feel free to contact me. I'm always eager to talk about technology and collaborate on interesting projects. Thank you for reading my README!
+
+
 ## Personal Info
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelquintanilla85@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-quintanilla-635819181/)
 [![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=pink)](https://instagram.com/quinta.ema?igshid=ZDdkNTZiNTM=)
-
-
-## Notable Project
-
-* Eventoo  https://www.eventoo.com.ar/
-A website that enables event management, ticket sales, sales tracking, and promotion creation. The technologies used include React, Redux Toolkit, AWS, PostgreSQL, Node.js, Express, and MUI. If you have any questions or are interested in working with me on a project, feel free to contact me. I'm always eager to talk about technology and collaborate on interesting projects. Thank you for reading my README!
 

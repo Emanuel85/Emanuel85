@@ -144,9 +144,18 @@ As a frontend developer, I am interested in finding an environment where I can a
 
 
 ## Notable Project
-* Eventoo  https://www.eventoo.com.ar/
+* Group project Eventoo  https://www.eventoo.com.ar/
 A website that enables event management, ticket sales, sales tracking, and promotion creation. The technologies used include React, Redux Toolkit, AWS, PostgreSQL, Node.js, Express, and MUI. If you have any questions or are interested in working with me on a project, feel free to contact me. I'm always eager to talk about technology and collaborate on interesting projects. Thank you for reading my README!
 
+* individual project Travel Soul  [https://www.eventoo.com.ar/](https://pi-countries-awo49i1av-emanuel85.vercel.app/)
+This project is a web application that displays information about countries around the world and allows users to create tourist activities associated with them. To gather most of the relevant information about the countries, the Rest API https://restcountries.com/ was used.
+
+The creation of the website was the final project of the Full Stack Development Bootcamp at SoyHenry, where the following technical guidelines had to be followed:
+
+Use the technology stack learned in the Bootcamp (PERN): JavaScript, React.js, Redux, Node.js, Express.js, PostgreSQL, and Sequelize.
+Make a single call to the API and store all the collected information in the database.
+Do not use external libraries for styles (such as Bootstrap) or functional libraries that do not belong to the aforementioned technology stack.
+The site is mobile-responsive.
 
 ## Personal Info
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelquintanilla85@gmail.com)

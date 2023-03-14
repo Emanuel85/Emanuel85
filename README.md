@@ -133,14 +133,14 @@ As a frontend developer, I am interested in finding an environment where I can a
 </table>
 
 ## Soft skills
--Fellowship 🤝
--Empathy 🤗
--Leadership 🧑‍💼
--Proactivity 🚀
--Enthusiasm 🎉
--Research 🔍
--Charisma 😊
--Patience 🙏
+- Fellowship 🤝
+- Empathy 🤗
+- Leadership 🧑‍💼
+- Proactivity 🚀
+- Enthusiasm 🎉
+- Research 🔍
+- Charisma 😊
+- Patience 🙏
 
 
 ## Personal Info

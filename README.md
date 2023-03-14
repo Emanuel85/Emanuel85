@@ -8,16 +8,16 @@ I am a young and talented Full Stack Developer with experience in HTML, JavaScri
 I love developing on the front-end because it allows me to express my imagination and creativity in the visual interface of a web page, which gives me great personal satisfaction. Additionally, I greatly enjoy creating sites with attractive design and robust functionality. I possess skills in collaborative work and have participated in projects using version control tools like Git. My committed attitude and ability to organize are values that I bring to any team, always willing to expand my knowledge in new technologies and skills to continue improving in my profession.
 
 🖥️ What technologies do I handle? <br>
-✅ 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 → JavaScript, HTML5, CSS3, SQL.<br>
-✅ 𝘍𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 → React, Redux, Bootstrap, Material UI.<br>
-✅ 𝘉𝘢𝘤𝘬𝘦𝘯𝘥 & 𝘖𝘙𝘔 → Node.js, Express.js, Postman, Sequelize.<br>
-✅ 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦𝘴 → PostgreSQL, SQLite.<br>
-✅ 𝘝𝘦𝘳𝘴𝘪𝘰𝘯 𝘊𝘰𝘯𝘵𝘳𝘰𝘭𝘴 → Git, GitHub.<br>
-✅ 𝘋𝘦𝘴𝘪𝘨𝘯 𝘛𝘰𝘰𝘭𝘴 → Canva, Figma, Photoshop.<br>
+  ✅ 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 → JavaScript, HTML5, CSS3, SQL.<br>
+  ✅ 𝘍𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 → React, Redux, Bootstrap, Material UI.<br>
+  ✅ 𝘉𝘢𝘤𝘬𝘦𝘯𝘥 & 𝘖𝘙𝘔 → Node.js, Express.js, Postman, Sequelize.<br>
+  ✅ 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦𝘴 → PostgreSQL, SQLite.<br>
+  ✅ 𝘝𝘦𝘳𝘴𝘪𝘰𝘯 𝘊𝘰𝘯𝘵𝘳𝘰𝘭𝘴 → Git, GitHub.<br>
+  ✅ 𝘋𝘦𝘴𝘪𝘨𝘯 𝘛𝘰𝘰𝘭𝘴 → Canva, Figma, Photoshop.<br>
 <br>
 📌 What am I learning now? What's next?<br>
-✅ MongoDB (noSQL)<br>
-✅ React Native<br>
+  ✅ MongoDB (noSQL)<br>
+  ✅ React Native<br>
 
 👤 If you're interested in talking about my experience and skills, don't hesitate to contact me!
 📧 emanuelquintanilla85@gmail.com

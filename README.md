@@ -19,9 +19,9 @@ I love developing on the front-end because it allows me to express my imaginatio
   ✅ MongoDB (noSQL)<br>
   ✅ React Native<br>
 
-👤 If you're interested in talking about my experience and skills, don't hesitate to contact me!
-📧 emanuelquintanilla85@gmail.com
-💟 https://github.com/Emanuel85
+👤 If you're interested in talking about my experience and skills, don't hesitate to contact me!<br>
+📧 emanuelquintanilla85@gmail.com<br>
+💟 https://github.com/Emanuel85<br>
 </p>
 
 
